@@ -9,4 +9,4 @@ services:
     volumes:
       - ./app:/app/app
     environment:
-      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_API_KEY=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
